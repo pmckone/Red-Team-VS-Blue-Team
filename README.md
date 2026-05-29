@@ -64,10 +64,9 @@ The objectives of this environment are to:
 
 # Network Diagram
 
-```md
 <img width="512" height="341" alt="Blue_team_design" src="https://github.com/user-attachments/assets/ba1ac55d-f191-4545-89ee-4d4a93863a69" />
 
-```
+
 
 ---
 
